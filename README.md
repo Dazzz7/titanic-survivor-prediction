@@ -24,3 +24,6 @@ Passenger class significantly impacts survival probability
 Age distribution shows variation in survival chances
 Fare and class combined influence survival likelihood
 The model achieved ~81% accuracy with strong recall for survivors
+
+## Live Demo:
+https://colab.research.google.com/drive/1wgKdzTmadSXtcFSW1y69O1511fuOobCY
